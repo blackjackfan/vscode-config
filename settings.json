@@ -1,6 +1,7 @@
 {
   "background.useInvertedOpacity": true,
   "editor.codeActionsOnSave": {},
+  "editor.formatOnSave": true,
   "editor.cursorBlinking": "solid",
   "editor.cursorStyle": "block",
   "editor.cursorSurroundingLines": 10,
